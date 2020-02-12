@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\bin\Debug\netcoreapp3.1\BrincandoComC.exe
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\bin\Debug\netcoreapp3.1\BrincandoComC.deps.json
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\bin\Debug\netcoreapp3.1\BrincandoComC.runtimeconfig.json
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\bin\Debug\netcoreapp3.1\BrincandoComC.runtimeconfig.dev.json
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\bin\Debug\netcoreapp3.1\BrincandoComC.dll
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\bin\Debug\netcoreapp3.1\BrincandoComC.pdb
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\obj\Debug\netcoreapp3.1\BrincandoComC.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\obj\Debug\netcoreapp3.1\BrincandoComC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\obj\Debug\netcoreapp3.1\BrincandoComC.AssemblyInfo.cs
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\obj\Debug\netcoreapp3.1\BrincandoComC.dll
+C:\Users\User\source\repos\BrincandoComC\BrincandoComC\obj\Debug\netcoreapp3.1\BrincandoComC.pdb
