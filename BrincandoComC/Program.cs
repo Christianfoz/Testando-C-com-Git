@@ -113,6 +113,7 @@ namespace BrincandoComC {
             }
 
             Console.WriteLine("\nQuantidade de numeros negativos: " + k);
+            Console.WriteLine();
         }
 
         
